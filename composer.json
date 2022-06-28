@@ -1,0 +1,14 @@
+{
+    "name": "kiryanov/filter",
+    "autoload": {
+        "psr-4": {
+            "Kiryanov\\Filter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danila Kiryanov"
+        }
+    ],
+    "require": {}
+}
